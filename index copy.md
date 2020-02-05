@@ -11,7 +11,7 @@
 <body>
 <h1>Flynn's Retro Computers</h1>
 
-     <p>Welcome to Flynns Retro Computers, a web shop dedicated to old-school                     minicomputers from the 1970s and 1980s. Weve got the most complete catalog anywhere on the Internet!</p>
+     <p>Welcome to Flynns Retro Computers, a web shop dedicated to old-school minicomputers from the 1970s and 1980s. Weve got the most complete catalog anywhere on the Internet!</p>
 
 <h2>Our products</h2>
 

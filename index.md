@@ -24,9 +24,9 @@
 
   <h3>Cool House Cats</h3>
   <img src="flynn.jpg" alt="flynn">
-    <p><b>Flyyn:</b>Happy kitty,sleepy kitty</p>
+    <p><strong>Flyyn:</strong>Happy kitty,sleepy kitty</p>
   <img src="quorra.jpg" alt="quorra">
-    <p><b>Quorra:</b>Mii-ow Fit</p>
+    <p><strong>Quorra:</strong>Mii-ow Fit</p>
 
   <table>
   <tr>
